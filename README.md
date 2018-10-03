@@ -12,6 +12,10 @@ be difficult even with two computers, I am going to first construct the rules of
 allowing AI players.
 
 
+REVISION (10/3/2018):
+I got a little sidetracked during the summer. I hope to come back and complete this eventually.
+
+
 NOTE:
 I am designing this for my family
 Anyone is welcome to use it, though the design will be specific to my circumstances.
